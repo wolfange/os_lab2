@@ -1,0 +1,14 @@
+parent
+child
+*.out
+
+*.o
+
+*.txt
+
+*.swp
+*~
+.vscode/
+.idea/
+
+.DS_Store
